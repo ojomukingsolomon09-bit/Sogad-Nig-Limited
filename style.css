@@ -118,7 +118,7 @@ button {
       rgba(10, 38, 75, 0.72),
       rgba(10, 38, 75, 0.25)
     ),
-    url("images/design5.jpg") center / cover no-repeat;
+    url("design5.jpg") center / cover no-repeat;
 
   background-color: var(--dark-blue);
 }
